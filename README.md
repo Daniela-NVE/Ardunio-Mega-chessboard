@@ -1,4 +1,4 @@
-GMR Switch smart chessboard with Arduino Mega and PCM speech synthesis.
+GMR Switch smart chessboard with Arduino Mega 2560 and PCM speech synthesis.
 Reads an 8 x 8 array of AD024 GMR magnetic switches.
 Displays the move times and moves in algebraic notation and speaks the move in descriptive notation using PCM audio. 
 A0-A7 (Port F) is sensor select (ranks/rows) connected to VDDs; A8-A15 (Port K) reads sensor outputs (files/columns).
